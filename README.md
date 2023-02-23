@@ -1,4 +1,4 @@
-# ocr 
+# OCR Model
 This is a repository for implementing image/text value transfer through get/post method between Android studio and flask server using python.
 
 ### How to run?
